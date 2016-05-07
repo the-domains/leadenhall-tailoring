@@ -1,0 +1,28 @@
+name: Leadenhall Tailoring
+favicon: null
+layout_spectrum: 0.7564355118665844
+typography_spectrum: 0.5159730170853436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9794060580898076
+  lightness: 0.7353834153618664
+  saturation: 0.20834848727099597
+  rhythmicContrast: 0.635727162938565
+purpose: []
